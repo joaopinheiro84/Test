@@ -3,6 +3,18 @@
 # Sobre o Projeto
 Projeto desenvolvido para o teste da Renner QA
 
+## Projeto Web
+Existem 2 classes
+
+- Robo
+Onde está todo sistema para compra e validações a serem usadas nos testes
+- Cadastro
+Métodos utilizados para a criação do cenário de cadastro de usuário
+
+## Projeto API
+- API
+Classe e seus métodos necessários para executar POST e GET
+
 # Tecnologias
 - Java
 - Selenium
