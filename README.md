@@ -7,7 +7,7 @@ Projeto desenvolvido para o teste da Renner QA
 Existem 2 classes
 
 - Robo
-Onde está todo sistema para compra e validações a serem usadas nos testes
+--Onde está todo sistema para compra e validações a serem usadas nos testes
 - Cadastro
 Métodos utilizados para a criação do cenário de cadastro de usuário
 
